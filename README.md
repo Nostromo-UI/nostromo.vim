@@ -14,5 +14,16 @@ I just got across the VSCode theme called [Nostromo UI Themes](https://github.co
 | *Image of vim with nostromo.vim with some python code* |
 
 
+<hr/>
+
+## HowTo
+
+Copy & paste nostromo.vim (file) in the colors dir in the .vimrc/nvim dir.
+```viml
+" ~/.vimrc
+colorscheme nostromo
+```
+
+
 Feel free to use and tinker with it.
 
